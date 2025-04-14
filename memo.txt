@@ -1,0 +1,45 @@
+1.创建json服务器。
+sudo npm i json-server -g
+2.创建db（json文件）
+3.启动json服务器
+Json-server --watch db.json
+
+4.测试
+增(POST)
+curl "http://127.0.0.1:3000/data" -H "Content-Type: application/json" -d "{\"name\":\"zhangsan\"}" -X POST
+改(PATCH)
+curl "http://127.0.0.1:3000/data/2"  -H "Content-Type: application/json" -d "{\"name\":\"lisi\"}"  -X PATCH
+查(GET)
+curl "http://127.0.0.1:3000/data"  -X GET
+删(DELETE)
+curl "http://127.0.0.1:3000/data/2" -X DELETE
+---------------------------------------------------------------------------------------------
+
+
+全局安装vue-cli
+vue-cli是vue的脚手架，所谓脚手架说白了就是快速创建模板化的项目，不用每次创建项目都去重复那些固定化的操作
+sudo npm install -g @vue/cli   :vue3.0
+
+创建工程
+vue create my-app
+
+Element UI 也发布了对应 Vue 3.0 的升级版本 Element Plus ，使用 Vue CLI 可以一键引入进来
+cd my-app
+vue add element-plus 
+npm run serve
+
+顺便安装vue-router 和 vue-resource，前者是路由，后者是执行Ajax请求用到的依赖
+npm install vue-router vue-resource -S
+
+安装moment，事件选择组件
+npm install moment -S
+
+安装axios，在main.js里定义全局axios。
+npm install axios --save
+
+
+VUE执行顺序：
+data -> create -> method
+
+v-model: 用于在表单类元素（单选，多选，下拉选择，输入框等）上双向绑定数据。
+

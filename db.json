@@ -1,0 +1,1439 @@
+{
+  "travel": [
+    {
+      "province_id": 1000,
+      "city_id": 1001,
+      "travel_date": "20230702",
+      "finish_status": "完成",
+      "finish_times": "多次",
+      "evaluate": 1,
+      "evaluate_detail": "中国首都。文化，经济，政治集一身的天之骄子。\n游玩景点：故宫博物院，天安门，长城，颐和园，天坛，国家博物院，天文馆，欢乐谷，环球影城。。。数不胜数。",
+      "id": 1
+    },
+    {
+      "province_id": 2000,
+      "city_id": 2001,
+      "travel_date": "20230701",
+      "finish_status": "完成",
+      "finish_times": "单次",
+      "evaluate": "良",
+      "evaluate_detail": "国际化大都市。灯光璀璨的外滩，老少都喜欢的迪斯尼乐园。",
+      "id": 2
+    },
+    {
+      "province_id": 4000,
+      "city_id": 4001,
+      "travel_date": "",
+      "finish_status": "完成",
+      "finish_times": "单次",
+      "evaluate": 1,
+      "evaluate_detail": "魔幻的雾都。车在楼中穿梭，错综复杂的高架桥，让老司机的你束手无策。\n人气第一的洪崖洞，又辣又油的重庆火锅，使人无比向往。",
+      "id": 5
+    },
+    {
+      "province_id": 9000,
+      "city_id": 9001,
+      "travel_date": "",
+      "finish_status": "完成",
+      "finish_times": "单次",
+      "evaluate": 1,
+      "evaluate_detail": "大熊猫闻名于世，慢节奏的生活，辣辣的美食，向往的城市。",
+      "id": 6
+    },
+    {
+      "province_id": 10000,
+      "city_id": 10001,
+      "travel_date": "",
+      "finish_status": "完成",
+      "finish_times": "单次",
+      "evaluate": 3,
+      "evaluate_detail": "",
+      "id": 7
+    },
+    {
+      "province_id": 10000,
+      "city_id": 10002,
+      "travel_date": "",
+      "finish_status": "完成",
+      "finish_times": "单次",
+      "evaluate": 1,
+      "evaluate_detail": "桂林山水甲天下，山水如画，推荐推荐。",
+      "id": 8
+    },
+    {
+      "province_id": 10000,
+      "city_id": 10003,
+      "travel_date": "",
+      "finish_status": "完成",
+      "finish_times": "单次",
+      "evaluate": 3,
+      "evaluate_detail": "",
+      "id": 9
+    },
+    {
+      "province_id": 12000,
+      "city_id": 12002,
+      "travel_date": "20230811",
+      "finish_status": "完成",
+      "finish_times": "单次",
+      "evaluate": 2,
+      "evaluate_detail": "",
+      "id": 10
+    },
+    {
+      "province_id": 13000,
+      "city_id": 13005,
+      "travel_date": null,
+      "finish_status": "完成",
+      "finish_times": "单次",
+      "evaluate": 2,
+      "evaluate_detail": "回味美食",
+      "id": 11
+    },
+    {
+      "province_id": 14000,
+      "city_id": 14001,
+      "travel_date": null,
+      "finish_status": "完成",
+      "finish_times": "单次",
+      "evaluate": 1,
+      "evaluate_detail": "除了热哪哪都好。",
+      "id": 12
+    },
+    {
+      "province_id": 16000,
+      "city_id": 16001,
+      "travel_date": "20190501",
+      "finish_status": "完成",
+      "finish_times": "单次",
+      "evaluate": 1,
+      "evaluate_detail": "喜欢，但太热。",
+      "id": 13
+    },
+    {
+      "province_id": 16000,
+      "city_id": 16002,
+      "travel_date": "20190501",
+      "finish_status": "完成",
+      "finish_times": "单次",
+      "evaluate": 2,
+      "evaluate_detail": "",
+      "id": 14
+    },
+    {
+      "province_id": 16000,
+      "city_id": 16003,
+      "travel_date": "20190501",
+      "finish_status": "完成",
+      "finish_times": "单次",
+      "evaluate": 2,
+      "evaluate_detail": "",
+      "id": 15
+    },
+    {
+      "province_id": 17000,
+      "city_id": 17001,
+      "travel_date": null,
+      "finish_status": "完成",
+      "finish_times": "单次",
+      "evaluate": 2,
+      "evaluate_detail": "",
+      "id": 16
+    },
+    {
+      "province_id": 18000,
+      "city_id": 18001,
+      "travel_date": null,
+      "finish_status": "完成",
+      "finish_times": "单次",
+      "evaluate": 1,
+      "evaluate_detail": "景美",
+      "id": 17
+    },
+    {
+      "province_id": 23000,
+      "city_id": 23005,
+      "travel_date": "20230501",
+      "finish_status": "完成",
+      "finish_times": "单次",
+      "evaluate": 2,
+      "evaluate_detail": "景美",
+      "id": 18
+    },
+    {
+      "province_id": 25000,
+      "city_id": 25001,
+      "travel_date": null,
+      "finish_status": "完成",
+      "finish_times": "单次",
+      "evaluate": 2,
+      "evaluate_detail": "嘎嘎冷",
+      "id": 19
+    },
+    {
+      "province_id": 27000,
+      "city_id": 27001,
+      "travel_date": "20210501",
+      "finish_status": "完成",
+      "finish_times": "单次",
+      "evaluate": 2,
+      "evaluate_detail": "爬泰山累毁了",
+      "id": 20
+    },
+    {
+      "province_id": 28000,
+      "city_id": 28005,
+      "travel_date": "20230815",
+      "finish_status": "完成",
+      "finish_times": "多次",
+      "evaluate": 2,
+      "evaluate_detail": "景美，震撼\n湖南在2013/08/15二刷，夏天的湖南太热，太辣，导致水土不服肠胃炎。夏天的湖南旅行要慎重！！！",
+      "id": 21
+    },
+    {
+      "province_id": 29000,
+      "city_id": 29002,
+      "travel_date": null,
+      "finish_status": "完成",
+      "finish_times": "单次",
+      "evaluate": 2,
+      "evaluate_detail": "又热消费又高的城市",
+      "id": 22
+    },
+    {
+      "province_id": 30000,
+      "city_id": 30002,
+      "travel_date": null,
+      "finish_status": "完成",
+      "finish_times": "单次",
+      "evaluate": 1,
+      "evaluate_detail": "和妈妈去的。准备再刷一次。",
+      "id": 23
+    },
+    {
+      "province_id": 32000,
+      "city_id": 32001,
+      "travel_date": null,
+      "finish_status": "完成",
+      "finish_times": "单次",
+      "evaluate": 1,
+      "evaluate_detail": "快节奏，寸土寸金的地方",
+      "id": 24
+    },
+    {
+      "province_id": 33000,
+      "city_id": 33001,
+      "travel_date": null,
+      "finish_status": "完成",
+      "finish_times": "单次",
+      "evaluate": 2,
+      "evaluate_detail": "没钱就来实现财富自由吧。哈哈",
+      "id": 25
+    },
+    {
+      "province_id": 20000,
+      "city_id": 20001,
+      "travel_date": "",
+      "finish_status": "完成",
+      "finish_times": "单次",
+      "evaluate": 2,
+      "evaluate_detail": "",
+      "id": 26
+    },
+    {
+      "province_id": 8000,
+      "city_id": 8001,
+      "travel_date": "20240222",
+      "finish_status": "完成",
+      "finish_times": "单次",
+      "evaluate": 1,
+      "evaluate_detail": "最喜欢美食，然后汉服，走在街上简直人手一套汉服。\n历史古都，城市文化古香古色。",
+      "id": 27
+    }
+  ],
+  "evaluation_options": [
+    {
+      "value": 1,
+      "label": "优"
+    },
+    {
+      "value": 2,
+      "label": "良"
+    },
+    {
+      "value": 3,
+      "label": "一般"
+    },
+    {
+      "value": 4,
+      "label": "差"
+    }
+  ],
+  "province_master": [
+    {
+      "province_id": 1000,
+      "province_name": "北京市",
+      "xAxis": 116.46,
+      "yAxis": 39.92
+    },
+    {
+      "province_id": 2000,
+      "province_name": "上海市",
+      "xAxis": 121.48,
+      "yAxis": 31.22
+    },
+    {
+      "province_id": 3000,
+      "province_name": "天津市",
+      "xAxis": 117.2,
+      "yAxis": 39.13
+    },
+    {
+      "province_id": 4000,
+      "province_name": "重庆市",
+      "xAxis": 106.54,
+      "yAxis": 29.59
+    },
+    {
+      "province_id": 5000,
+      "province_name": "西藏自治区",
+      "xAxis": 91.11,
+      "yAxis": 29.97
+    },
+    {
+      "province_id": 6000,
+      "province_name": "新疆维吾尔族自治区",
+      "xAxis": 87.68,
+      "yAxis": 43.77
+    },
+    {
+      "province_id": 7000,
+      "province_name": "甘肃省",
+      "xAxis": 103.73,
+      "yAxis": 36.03
+    },
+    {
+      "province_id": 8000,
+      "province_name": "陕西省",
+      "xAxis": 108.95,
+      "yAxis": 34.27
+    },
+    {
+      "province_id": 9000,
+      "province_name": "四川省",
+      "xAxis": 104.06,
+      "yAxis": 30.67
+    },
+    {
+      "province_id": 10000,
+      "province_name": "广西壮族自治区",
+      "xAxis": 108.33,
+      "yAxis": 22.84
+    },
+    {
+      "province_id": 11000,
+      "province_name": "河南省",
+      "xAxis": 113.65,
+      "yAxis": 34.76
+    },
+    {
+      "province_id": 12000,
+      "province_name": "内蒙古自治区",
+      "xAxis": 111.65,
+      "yAxis": 40.82
+    },
+    {
+      "province_id": 13000,
+      "province_name": "吉林省",
+      "xAxis": 125.35,
+      "yAxis": 43.88
+    },
+    {
+      "province_id": 14000,
+      "province_name": "浙江省",
+      "xAxis": 120.19,
+      "yAxis": 30.26
+    },
+    {
+      "province_id": 15000,
+      "province_name": "江西省",
+      "xAxis": 115.89,
+      "yAxis": 28.68
+    },
+    {
+      "province_id": 16000,
+      "province_name": "湖北省",
+      "xAxis": 114.31,
+      "yAxis": 30.52
+    },
+    {
+      "province_id": 17000,
+      "province_name": "广东省",
+      "xAxis": 113.23,
+      "yAxis": 23.16
+    },
+    {
+      "province_id": 18000,
+      "province_name": "贵州省",
+      "xAxis": 106.71,
+      "yAxis": 26.57
+    },
+    {
+      "province_id": 19000,
+      "province_name": "青海省",
+      "xAxis": 101.74,
+      "yAxis": 36.56
+    },
+    {
+      "province_id": 20000,
+      "province_name": "辽宁省",
+      "xAxis": 123.38,
+      "yAxis": 41.8
+    },
+    {
+      "province_id": 21000,
+      "province_name": "江苏省",
+      "xAxis": 118.78,
+      "yAxis": 32.04
+    },
+    {
+      "province_id": 22000,
+      "province_name": "安徽省",
+      "xAxis": 117.27,
+      "yAxis": 31.86
+    },
+    {
+      "province_id": 23000,
+      "province_name": "河北省",
+      "xAxis": 114.48,
+      "yAxis": 38.03
+    },
+    {
+      "province_id": 24000,
+      "province_name": "山西省",
+      "xAxis": 112.53,
+      "yAxis": 37.87
+    },
+    {
+      "province_id": 25000,
+      "province_name": "黑龙江省",
+      "xAxis": 126.63,
+      "yAxis": 45.75
+    },
+    {
+      "province_id": 26000,
+      "province_name": "福建省",
+      "xAxis": 119.3,
+      "yAxis": 26.08
+    },
+    {
+      "province_id": 27000,
+      "province_name": "山东省",
+      "xAxis": 117,
+      "yAxis": 36.65
+    },
+    {
+      "province_id": 28000,
+      "province_name": "湖南省",
+      "xAxis": 113,
+      "yAxis": 28.21
+    },
+    {
+      "province_id": 29000,
+      "province_name": "海南省",
+      "xAxis": 110.35,
+      "yAxis": 20.02
+    },
+    {
+      "province_id": 30000,
+      "province_name": "云南省",
+      "xAxis": 102.73,
+      "yAxis": 25.04
+    },
+    {
+      "province_id": 31000,
+      "province_name": "宁夏回族自治州",
+      "xAxis": 106.27,
+      "yAxis": 38.47
+    },
+    {
+      "province_id": 32000,
+      "province_name": "香港",
+      "xAxis": 114.15,
+      "yAxis": 22.15
+    },
+    {
+      "province_id": 33000,
+      "province_name": "澳门",
+      "xAxis": 115.07,
+      "yAxis": 21.33
+    },
+    {
+      "province_id": 34000,
+      "province_name": "台湾省",
+      "xAxis": 119.18,
+      "yAxis": 20.45
+    }
+  ],
+  "city_master": [
+    {
+      "city_id": 1001,
+      "city_name": "北京市",
+      "province_id": 1000,
+      "xAxis": 116.46,
+      "yAxis": 39.92
+    },
+    {
+      "city_id": 2001,
+      "city_name": "上海市",
+      "province_id": 2000,
+      "xAxis": 121.48,
+      "yAxis": 31.22
+    },
+    {
+      "city_id": 3001,
+      "city_name": "天津市",
+      "province_id": 3000,
+      "xAxis": 117.2,
+      "yAxis": 39.13
+    },
+    {
+      "city_id": 4001,
+      "city_name": "重庆市",
+      "province_id": 4000,
+      "xAxis": 106.54,
+      "yAxis": 29.59
+    },
+    {
+      "city_id": 5001,
+      "city_name": "拉萨市",
+      "province_id": 5000,
+      "xAxis": 91.132212,
+      "yAxis": 29.660361
+    },
+    {
+      "city_id": 5002,
+      "city_name": "阿里地区",
+      "province_id": 5000,
+      "xAxis": 80.105498,
+      "yAxis": 32.503187
+    },
+    {
+      "city_id": 5003,
+      "city_name": "山南市",
+      "province_id": 5000,
+      "xAxis": 91.766529,
+      "yAxis": 29.236023
+    },
+    {
+      "city_id": 5004,
+      "city_name": "昌都市",
+      "province_id": 5000,
+      "xAxis": 97.178452,
+      "yAxis": 31.136875
+    },
+    {
+      "city_id": 5005,
+      "city_name": "日喀则市",
+      "province_id": 5000,
+      "xAxis": 88.885148,
+      "yAxis": 29.267519
+    },
+    {
+      "city_id": 5006,
+      "city_name": "那曲市",
+      "province_id": 5000,
+      "xAxis": 92.060214,
+      "yAxis": 31.476004
+    },
+    {
+      "city_id": 5007,
+      "city_name": "林芝市",
+      "province_id": 5000,
+      "xAxis": 94.362348,
+      "yAxis": 29.654693
+    },
+    {
+      "city_id": 6001,
+      "city_name": "乌鲁木齐市",
+      "province_id": 6000,
+      "xAxis": 87.617733,
+      "yAxis": 43.792818
+    },
+    {
+      "city_id": 6002,
+      "city_name": "克拉玛依市",
+      "province_id": 6000,
+      "xAxis": 84.873946,
+      "yAxis": 45.595886
+    },
+    {
+      "city_id": 6003,
+      "city_name": "吐鲁番市",
+      "province_id": 6000,
+      "xAxis": 89.184078,
+      "yAxis": 42.947613
+    },
+    {
+      "city_id": 6004,
+      "city_name": "哈密市",
+      "province_id": 6000,
+      "xAxis": 93.53136,
+      "yAxis": 42.833248
+    },
+    {
+      "city_id": 6005,
+      "city_name": "阿克苏地区",
+      "province_id": 6000,
+      "xAxis": 80.265068,
+      "yAxis": 41.170712
+    },
+    {
+      "city_id": 6006,
+      "city_name": "喀什地区",
+      "province_id": 6000,
+      "xAxis": 75.989138,
+      "yAxis": 39.467664
+    },
+    {
+      "city_id": 6007,
+      "city_name": "和田地区",
+      "province_id": 6000,
+      "xAxis": 79.92533,
+      "yAxis": 37.110687
+    },
+    {
+      "city_id": 6008,
+      "city_name": "伊犁哈萨克自治州",
+      "province_id": 6000,
+      "xAxis": 81.317946,
+      "yAxis": 43.92186
+    },
+    {
+      "city_id": 7001,
+      "city_name": "兰州市",
+      "province_id": 7000,
+      "xAxis": 103.823557,
+      "yAxis": 36.058039
+    },
+    {
+      "city_id": 7002,
+      "city_name": "临夏回族自治州",
+      "province_id": 7000,
+      "xAxis": 103.212006,
+      "yAxis": 35.599446
+    },
+    {
+      "city_id": 7003,
+      "city_name": "金昌市",
+      "province_id": 7000,
+      "xAxis": 102.187888,
+      "yAxis": 38.514238
+    },
+    {
+      "city_id": 7004,
+      "city_name": "张掖市",
+      "province_id": 7000,
+      "xAxis": 100.455472,
+      "yAxis": 38.932897
+    },
+    {
+      "city_id": 7005,
+      "city_name": "甘南藏族自治州",
+      "province_id": 7000,
+      "xAxis": 102.911008,
+      "yAxis": 34.986354
+    },
+    {
+      "city_id": 7006,
+      "city_name": "白银市",
+      "province_id": 7000,
+      "xAxis": 104.173606,
+      "yAxis": 36.54568
+    },
+    {
+      "city_id": 7007,
+      "city_name": "陇南市",
+      "province_id": 7000,
+      "xAxis": 104.929379,
+      "yAxis": 33.388598
+    },
+    {
+      "city_id": 7008,
+      "city_name": "天水市",
+      "province_id": 7000,
+      "xAxis": 105.724998,
+      "yAxis": 34.578529
+    },
+    {
+      "city_id": 7009,
+      "city_name": "庆阳市",
+      "province_id": 7000,
+      "xAxis": 107.638372,
+      "yAxis": 35.734218
+    },
+    {
+      "city_id": 7010,
+      "city_name": "嘉峪关市",
+      "province_id": 7000,
+      "xAxis": 98.277304,
+      "yAxis": 39.786529
+    },
+    {
+      "city_id": 8001,
+      "city_name": "西安市",
+      "province_id": 8000,
+      "xAxis": 108.948024,
+      "yAxis": 34.263161
+    },
+    {
+      "city_id": 9001,
+      "city_name": "成都市",
+      "province_id": 9000,
+      "xAxis": 104.065735,
+      "yAxis": 30.659462
+    },
+    {
+      "city_id": 9002,
+      "city_name": "攀枝花市",
+      "province_id": 9000,
+      "xAxis": 101.716007,
+      "yAxis": 26.580446
+    },
+    {
+      "city_id": 10001,
+      "city_name": "南宁市",
+      "province_id": 10000,
+      "xAxis": 108.320004,
+      "yAxis": 22.82402
+    },
+    {
+      "city_id": 10002,
+      "city_name": "桂林市",
+      "province_id": 10000,
+      "xAxis": 110.299121,
+      "yAxis": 25.274215
+    },
+    {
+      "city_id": 10003,
+      "city_name": "北海市",
+      "province_id": 10000,
+      "xAxis": 109.119254,
+      "yAxis": 21.473343
+    },
+    {
+      "city_id": 11001,
+      "city_name": "郑州市",
+      "province_id": 11000,
+      "xAxis": 113.665412,
+      "yAxis": 34.757975
+    },
+    {
+      "city_id": 11002,
+      "city_name": "开封市",
+      "province_id": 11000,
+      "xAxis": 114.341447,
+      "yAxis": 34.797049
+    },
+    {
+      "city_id": 11003,
+      "city_name": "洛阳市",
+      "province_id": 11000,
+      "xAxis": 112.434468,
+      "yAxis": 34.663041
+    },
+    {
+      "city_id": 11004,
+      "city_name": "平顶山市",
+      "province_id": 11000,
+      "xAxis": 113.307718,
+      "yAxis": 33.735241
+    },
+    {
+      "city_id": 11005,
+      "city_name": "安阳市",
+      "province_id": 11000,
+      "xAxis": 114.352482,
+      "yAxis": 36.103442
+    },
+    {
+      "city_id": 11006,
+      "city_name": "鹤壁市",
+      "province_id": 11000,
+      "xAxis": 114.295444,
+      "yAxis": 35.748236
+    },
+    {
+      "city_id": 11007,
+      "city_name": "三门峡市",
+      "province_id": 11000,
+      "xAxis": 111.194099,
+      "yAxis": 34.777338
+    },
+    {
+      "city_id": 12001,
+      "city_name": "赤峰市",
+      "province_id": 12000,
+      "xAxis": 118.956806,
+      "yAxis": 42.275317
+    },
+    {
+      "city_id": 12002,
+      "city_name": "呼伦贝尔市",
+      "province_id": 12000,
+      "xAxis": 119.758168,
+      "yAxis": 49.215333
+    },
+    {
+      "city_id": 12003,
+      "city_name": "呼和浩特市",
+      "province_id": 12000,
+      "xAxis": 111.670801,
+      "yAxis": 40.818311
+    },
+    {
+      "city_id": 12004,
+      "city_name": "包头市",
+      "province_id": 12000,
+      "xAxis": 109.840405,
+      "yAxis": 40.658168
+    },
+    {
+      "city_id": 12005,
+      "city_name": "通辽市",
+      "province_id": 121000,
+      "xAxis": 122.263119,
+      "yAxis": 43.617429
+    },
+    {
+      "city_id": 13001,
+      "city_name": "长春市",
+      "province_id": 13000,
+      "xAxis": 125.3245,
+      "yAxis": 43.886841
+    },
+    {
+      "city_id": 13002,
+      "city_name": "吉林市",
+      "province_id": 13000,
+      "xAxis": 126.55302,
+      "yAxis": 43.843577
+    },
+    {
+      "city_id": 13003,
+      "city_name": "四平市",
+      "province_id": 13000,
+      "xAxis": 124.370785,
+      "yAxis": 43.170344
+    },
+    {
+      "city_id": 13004,
+      "city_name": "通化市",
+      "province_id": 13000,
+      "xAxis": 125.936501,
+      "yAxis": 41.721177
+    },
+    {
+      "city_id": 13005,
+      "city_name": "延边朝鲜自治州",
+      "province_id": 13000,
+      "xAxis": 129.513228,
+      "yAxis": 42.904823
+    },
+    {
+      "city_id": 14001,
+      "city_name": "杭州市",
+      "province_id": 14000,
+      "xAxis": 120.153576,
+      "yAxis": 30.287459
+    },
+    {
+      "city_id": 14002,
+      "city_name": "宁波市",
+      "province_id": 14000,
+      "xAxis": 121.549792,
+      "yAxis": 29.868388
+    },
+    {
+      "city_id": 14003,
+      "city_name": "温州市",
+      "province_id": 14000,
+      "xAxis": 120.672111,
+      "yAxis": 28.000575
+    },
+    {
+      "city_id": 14004,
+      "city_name": "嘉兴市",
+      "province_id": 14000,
+      "xAxis": 120.750865,
+      "yAxis": 30.762653
+    },
+    {
+      "city_id": 14005,
+      "city_name": "绍兴市",
+      "province_id": 14000,
+      "xAxis": 120.582112,
+      "yAxis": 29.997117
+    },
+    {
+      "city_id": 14006,
+      "city_name": "金华市",
+      "province_id": 14000,
+      "xAxis": 119.649506,
+      "yAxis": 29.089524
+    },
+    {
+      "city_id": 15001,
+      "city_name": "南昌市",
+      "province_id": 15000,
+      "xAxis": 115.892151,
+      "yAxis": 28.676493
+    },
+    {
+      "city_id": 15002,
+      "city_name": "景德镇市",
+      "province_id": 15000,
+      "xAxis": 117.214664,
+      "yAxis": 29.29256
+    },
+    {
+      "city_id": 16001,
+      "city_name": "武汉市",
+      "province_id": 16000,
+      "xAxis": 114.298572,
+      "yAxis": 30.584355
+    },
+    {
+      "city_id": 16002,
+      "city_name": "宜昌市",
+      "province_id": 16000,
+      "xAxis": 111.290843,
+      "yAxis": 30.702636
+    },
+    {
+      "city_id": 16003,
+      "city_name": "恩施土家族苗族自治州",
+      "province_id": 16000,
+      "xAxis": 109.486998,
+      "yAxis": 31.14
+    },
+    {
+      "city_id": 16004,
+      "city_name": "神农架林区",
+      "province_id": 16000,
+      "xAxis": 110.671525,
+      "yAxis": 31.74444
+    },
+    {
+      "city_id": 17001,
+      "city_name": "广州市",
+      "province_id": 17000,
+      "xAxis": 113.280637,
+      "yAxis": 23.125178
+    },
+    {
+      "city_id": 17002,
+      "city_name": "深圳市",
+      "province_id": 17000,
+      "xAxis": 114.085947,
+      "yAxis": 22.547
+    },
+    {
+      "city_id": 17003,
+      "city_name": "珠海市",
+      "province_id": 17000,
+      "xAxis": 113.553986,
+      "yAxis": 22.224979
+    },
+    {
+      "city_id": 17004,
+      "city_name": "汕头市",
+      "province_id": 17000,
+      "xAxis": 116.708463,
+      "yAxis": 23.37102
+    },
+    {
+      "city_id": 17005,
+      "city_name": "佛山市",
+      "province_id": 17000,
+      "xAxis": 113.122717,
+      "yAxis": 23.028762
+    },
+    {
+      "city_id": 17006,
+      "city_name": "东莞市",
+      "province_id": 17000,
+      "xAxis": 113.746262,
+      "yAxis": 23.685022
+    },
+    {
+      "city_id": 18001,
+      "city_name": "贵阳市",
+      "province_id": 18000,
+      "xAxis": 106.713478,
+      "yAxis": 27.706626
+    },
+    {
+      "city_id": 18002,
+      "city_name": "遵义市",
+      "province_id": 18000,
+      "xAxis": 106.937265,
+      "yAxis": 27.706626
+    },
+    {
+      "city_id": 19001,
+      "city_name": "西宁市",
+      "province_id": 19000,
+      "xAxis": 101.778916,
+      "yAxis": 36.623178
+    },
+    {
+      "city_id": 19002,
+      "city_name": "海东市",
+      "province_id": 19000,
+      "xAxis": 102.10327,
+      "yAxis": 36.502916
+    },
+    {
+      "city_id": 19003,
+      "city_name": "海北藏族自治州",
+      "province_id": 19000,
+      "xAxis": 100.901059,
+      "yAxis": 36.959435
+    },
+    {
+      "city_id": 19004,
+      "city_name": "黄南藏族自治州",
+      "province_id": 19000,
+      "xAxis": 102.019988,
+      "yAxis": 35.517744
+    },
+    {
+      "city_id": 19005,
+      "city_name": "海南藏族自治州",
+      "province_id": 19000,
+      "xAxis": 100.619542,
+      "yAxis": 36.280353
+    },
+    {
+      "city_id": 19006,
+      "city_name": "果洛藏族自治州",
+      "province_id": 19000,
+      "xAxis": 100.242143,
+      "yAxis": 34.4736
+    },
+    {
+      "city_id": 19007,
+      "city_name": "玉树藏族自治州",
+      "province_id": 19000,
+      "xAxis": 97.008522,
+      "yAxis": 33.004049
+    },
+    {
+      "city_id": 19008,
+      "city_name": "海西蒙古族藏族自治州",
+      "province_id": 19000,
+      "xAxis": 97.370785,
+      "yAxis": 37.374663
+    },
+    {
+      "city_id": 20001,
+      "city_name": "沈阳市",
+      "province_id": 20000,
+      "xAxis": 123.429096,
+      "yAxis": 41.796767
+    },
+    {
+      "city_id": 20002,
+      "city_name": "大连市",
+      "province_id": 20000,
+      "xAxis": 121.618622,
+      "yAxis": 38.91459
+    },
+    {
+      "city_id": 20003,
+      "city_name": "鞍山市",
+      "province_id": 20000,
+      "xAxis": 122.995632,
+      "yAxis": 41.110626
+    },
+    {
+      "city_id": 20004,
+      "city_name": "抚顺市",
+      "province_id": 20000,
+      "xAxis": 123.921109,
+      "yAxis": 41.875956
+    },
+    {
+      "city_id": 20005,
+      "city_name": "本溪市",
+      "province_id": 20000,
+      "xAxis": 123.770519,
+      "yAxis": 41.297909
+    },
+    {
+      "city_id": 20006,
+      "city_name": "丹东市",
+      "province_id": 20000,
+      "xAxis": 124.383044,
+      "yAxis": 40.124296
+    },
+    {
+      "city_id": 20007,
+      "city_name": "锦州市",
+      "province_id": 20000,
+      "xAxis": 121.135742,
+      "yAxis": 41.119269
+    },
+    {
+      "city_id": 20008,
+      "city_name": "营口市",
+      "province_id": 20000,
+      "xAxis": 122.235151,
+      "yAxis": 40.667432
+    },
+    {
+      "city_id": 20009,
+      "city_name": "阜新市",
+      "province_id": 20000,
+      "xAxis": 121.648962,
+      "yAxis": 42.011796
+    },
+    {
+      "city_id": 20010,
+      "city_name": "辽阳市",
+      "province_id": 20000,
+      "xAxis": 123.18152,
+      "yAxis": 41.269402
+    },
+    {
+      "city_id": 20011,
+      "city_name": "盘锦市",
+      "province_id": 20000,
+      "xAxis": 122.06957,
+      "yAxis": 41.124484
+    },
+    {
+      "city_id": 20012,
+      "city_name": "铁岭市",
+      "province_id": 20000,
+      "xAxis": 123.844279,
+      "yAxis": 42.290585
+    },
+    {
+      "city_id": 20013,
+      "city_name": "朝阳市",
+      "province_id": 20000,
+      "xAxis": 120.451176,
+      "yAxis": 41.576758
+    },
+    {
+      "city_id": 20014,
+      "city_name": "葫芦岛市",
+      "province_id": 20000,
+      "xAxis": 120.856394,
+      "yAxis": 40.755572
+    },
+    {
+      "city_id": 21001,
+      "city_name": "南京市",
+      "province_id": 21000,
+      "xAxis": 118.767413,
+      "yAxis": 32.041544
+    },
+    {
+      "city_id": 21002,
+      "city_name": "无锡市",
+      "province_id": 21000,
+      "xAxis": 120.301663,
+      "yAxis": 31.574729
+    },
+    {
+      "city_id": 21003,
+      "city_name": "常州市",
+      "province_id": 21000,
+      "xAxis": 119.946973,
+      "yAxis": 31.772752
+    },
+    {
+      "city_id": 21004,
+      "city_name": "南通市",
+      "province_id": 21000,
+      "xAxis": 120.864608,
+      "yAxis": 32.016212
+    },
+    {
+      "city_id": 21005,
+      "city_name": "苏州市",
+      "province_id": 21000,
+      "xAxis": 120.619585,
+      "yAxis": 31.299379
+    },
+    {
+      "city_id": 21006,
+      "city_name": "连云港市",
+      "province_id": 21000,
+      "xAxis": 119.178821,
+      "yAxis": 34.600018
+    },
+    {
+      "city_id": 22001,
+      "city_name": "合肥市",
+      "province_id": 22000,
+      "xAxis": 117.283042,
+      "yAxis": 31.86119
+    },
+    {
+      "city_id": 22002,
+      "city_name": "黄山市",
+      "province_id": 22000,
+      "xAxis": 118.317325,
+      "yAxis": 29.709239
+    },
+    {
+      "city_id": 23001,
+      "city_name": "石家庄市",
+      "province_id": 23000,
+      "xAxis": 114.48,
+      "yAxis": 38.03
+    },
+    {
+      "city_id": 23002,
+      "city_name": "唐山市",
+      "province_id": 23000,
+      "xAxis": 118.02,
+      "yAxis": 39.63
+    },
+    {
+      "city_id": 23003,
+      "city_name": "秦皇岛市",
+      "province_id": 23000,
+      "xAxis": 119.57,
+      "yAxis": 39.95
+    },
+    {
+      "city_id": 23004,
+      "city_name": "张家口市",
+      "province_id": 23000,
+      "xAxis": 114.87,
+      "yAxis": 40.82
+    },
+    {
+      "city_id": 23005,
+      "city_name": "承德市",
+      "province_id": 23000,
+      "xAxis": 117.93,
+      "yAxis": 40.97
+    },
+    {
+      "city_id": 24001,
+      "city_name": "太原市",
+      "province_id": 24000,
+      "xAxis": 112.53,
+      "yAxis": 37.87
+    },
+    {
+      "city_id": 25001,
+      "city_name": "哈尔滨市",
+      "province_id": 25000,
+      "xAxis": 126.63,
+      "yAxis": 45.75
+    },
+    {
+      "city_id": 25002,
+      "city_name": "齐齐哈尔市",
+      "province_id": 25000,
+      "xAxis": 123.97,
+      "yAxis": 47.33
+    },
+    {
+      "city_id": 25003,
+      "city_name": "大兴安岭地区",
+      "province_id": 25000,
+      "xAxis": 124.71,
+      "yAxis": 52.34
+    },
+    {
+      "city_id": 26001,
+      "city_name": "福州市",
+      "province_id": 26000,
+      "xAxis": 119.3,
+      "yAxis": 26.08
+    },
+    {
+      "city_id": 26002,
+      "city_name": "厦门市",
+      "province_id": 26000,
+      "xAxis": 118.1,
+      "yAxis": 24.46
+    },
+    {
+      "city_id": 27001,
+      "city_name": "济南市",
+      "province_id": 27000,
+      "xAxis": 117,
+      "yAxis": 36.65
+    },
+    {
+      "city_id": 27002,
+      "city_name": "青岛市",
+      "province_id": 27000,
+      "xAxis": 120.33,
+      "yAxis": 36.07
+    },
+    {
+      "city_id": 27003,
+      "city_name": "淄博市",
+      "province_id": 27000,
+      "xAxis": 118.05,
+      "yAxis": 36.78
+    },
+    {
+      "city_id": 27004,
+      "city_name": "枣庄市",
+      "province_id": 27000,
+      "xAxis": 117.57,
+      "yAxis": 34.86
+    },
+    {
+      "city_id": 27005,
+      "city_name": "烟台市",
+      "province_id": 27000,
+      "xAxis": 121.39,
+      "yAxis": 37.52
+    },
+    {
+      "city_id": 27006,
+      "city_name": "济宁市",
+      "province_id": 27000,
+      "xAxis": 116.59,
+      "yAxis": 35.38
+    },
+    {
+      "city_id": 27007,
+      "city_name": "泰安市",
+      "province_id": 27000,
+      "xAxis": 117.13,
+      "yAxis": 36.18
+    },
+    {
+      "city_id": 27008,
+      "city_name": "日照市",
+      "province_id": 27000,
+      "xAxis": 119.46,
+      "yAxis": 35.42
+    },
+    {
+      "city_id": 28001,
+      "city_name": "长沙市",
+      "province_id": 28000,
+      "xAxis": 113,
+      "yAxis": 28.21
+    },
+    {
+      "city_id": 28002,
+      "city_name": "衡阳市",
+      "province_id": 28000,
+      "xAxis": 112.61,
+      "yAxis": 26.89
+    },
+    {
+      "city_id": 28003,
+      "city_name": "岳阳市",
+      "province_id": 28000,
+      "xAxis": 113.09,
+      "yAxis": 29.37
+    },
+    {
+      "city_id": 28004,
+      "city_name": "常德市",
+      "province_id": 28000,
+      "xAxis": 111.69,
+      "yAxis": 29.05
+    },
+    {
+      "city_id": 28005,
+      "city_name": "张家界市",
+      "province_id": 28000,
+      "xAxis": 110.48,
+      "yAxis": 29.13
+    },
+    {
+      "city_id": 28006,
+      "city_name": "湘西土家族苗族自治州",
+      "province_id": 28000,
+      "xAxis": 109.74,
+      "yAxis": 28.31
+    },
+    {
+      "city_id": 29001,
+      "city_name": "海口市",
+      "province_id": 29000,
+      "xAxis": 110.35,
+      "yAxis": 20.02
+    },
+    {
+      "city_id": 29002,
+      "city_name": "三亚市",
+      "province_id": 29000,
+      "xAxis": 109.51,
+      "yAxis": 18.25
+    },
+    {
+      "city_id": 30001,
+      "city_name": "昆明市",
+      "province_id": 30000,
+      "xAxis": 102.73,
+      "yAxis": 25.04
+    },
+    {
+      "city_id": 30002,
+      "city_name": "丽江市",
+      "province_id": 30000,
+      "xAxis": 100.25,
+      "yAxis": 26.86
+    },
+    {
+      "city_id": 30003,
+      "city_name": "西双版纳傣族自治州",
+      "province_id": 30000,
+      "xAxis": 100.8,
+      "yAxis": 22
+    },
+    {
+      "city_id": 30004,
+      "city_name": "大理白族自治州",
+      "province_id": 30000,
+      "xAxis": 100.19,
+      "yAxis": 25.69
+    },
+    {
+      "city_id": 31001,
+      "city_name": "银川市",
+      "province_id": 31000,
+      "xAxis": 106.27,
+      "yAxis": 38.47
+    },
+    {
+      "city_id": 32001,
+      "city_name": "香港",
+      "province_id": 32000,
+      "xAxis": 114.15,
+      "yAxis": 22.15
+    },
+    {
+      "city_id": 33001,
+      "city_name": "澳门",
+      "province_id": 33000,
+      "xAxis": 115.07,
+      "yAxis": 21.33
+    },
+    {
+      "city_id": 34001,
+      "city_name": "台湾",
+      "province_id": 34000,
+      "xAxis": 119.18,
+      "yAxis": 20.45
+    }
+  ]
+}
